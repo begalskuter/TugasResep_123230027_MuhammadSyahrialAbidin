@@ -1,6 +1,6 @@
 import 'package:hive/hive.dart';
 
-part 'favorite.g.dart'; // File ini akan digenerate otomatis
+part 'favorite.g.dart'; 
 
 @HiveType(typeId: 0)
 class FavoriteRecipe extends HiveObject {
